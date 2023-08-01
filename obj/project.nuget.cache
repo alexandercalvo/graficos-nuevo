@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjSXXeHj1mvluamm0VDO55Rw57CEUTl8wF7WyEDCg6CsVSDx4CxL3br/JLQgjqvgq9KkJ83YVKHYRXmouzRVbA==",
+  "success": true,
+  "projectFilePath": "/home/alecalvo/Documents/dotnet/graficos-main/teststatics.csproj",
+  "expectedPackageFiles": [
+    "/home/alecalvo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
